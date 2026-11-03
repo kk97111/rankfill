@@ -1,0 +1,7 @@
+# Python 3.10; versions recorded in the source experiment environment.
+torch==2.8.0
+numpy==2.2.6
+sentence-transformers==5.5.1
+transformers==4.57.6
+datasets==5.0.1
+accelerate==1.13.0
